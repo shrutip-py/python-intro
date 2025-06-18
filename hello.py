@@ -1,3 +1,3 @@
-name = "shruti0"
+name = "shruti"
 message = f"Hello, {name}!."
 print(message)
